@@ -25,7 +25,7 @@ After training on single dataset alone for 200 epoch, the following results shou
 |                          | Market-1501             | DukeMTMC-reID           |
 | ------------------------ | ----------------------- | ----------------------- |
 | Original Version (paper) | rank-1: 91.2, mAP: 75.2 | rank-1: 80.3, mAP: 62.6 |
-| This e-implement (repo)  | rank-1: 90.4, mAP: 74.9 | rank-1: 81.2, mAP: 64.5 |
+| This re-implement (repo) | rank-1: 90.4, mAP: 74.9 | rank-1: 81.2, mAP: 64.5 |
 
 # Dataset Preparation
 
