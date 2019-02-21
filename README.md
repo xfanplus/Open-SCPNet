@@ -16,8 +16,8 @@ The original code is based on a internal deep learning framewok using 4 datasets
 You can use Python2 and install PyTorch using the following commands (at least one Nvida GPU is required):
 
 ```sh
-pip3 install torch==0.3.1
-pip3 install torchvision
+pip install torch==0.3.1
+pip install torchvision
 ```
 
 After training on single dataset alone for 200 epoch, the following results should be achieved:
